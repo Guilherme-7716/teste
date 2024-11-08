@@ -32,7 +32,9 @@ Desktops: 1200px pra cima */
     }
 
     table{
-        font-size: 0.3rem;
+        th, td {
+        font-size: 0.8rem;
+      }
     }
 
     main {
